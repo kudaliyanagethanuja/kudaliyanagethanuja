@@ -12,7 +12,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working as a **Freelancer**.
+ 🔭 I’m currently working as a **Freelancer and remotely**.
  
  🌱 I’m currently learning **Back-End Technologies**.
 
