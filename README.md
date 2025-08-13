@@ -12,13 +12,13 @@
 
 <div align="left">
  
- 🔭 I’m currently working At **Own Projects**
+ 🔭 I’m currently working as a **Freelancer**.
  
  🌱 I’m currently learning **Back-End Technologies**
 
 💬 Ask me about **Django,Flask, MySQL... or anything [here](https://stackoverflow.com/users/22792152/sathsara-thanuja?tab=profile)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact: The first computer programmer was Ada Lovelace in the **1800s**.
 
  </div>
  
