@@ -18,7 +18,7 @@
 
 💬 Ask me about **Django,Flask, MySQL... or anything [here](https://stackoverflow.com/users/22792152/sathsara-thanuja?tab=profile)**
 
-⚡ Fun fact: The first computer programmer was Ada Lovelace in the **1800s**.
+⚡ Fun fact: The first computer programmer was **Ada Lovelace in the 1800s**.
 
  </div>
  
