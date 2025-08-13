@@ -22,7 +22,7 @@
 
  </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:pedro.sales.sathsaravx@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -34,18 +34,18 @@
   </a>
 </div>
 
- <hr/>
+
  
-<h2 align="left"> Languages & Frameworks ⚒</h2>
+<h2 align="left"> Languages & Frameworks</h2>
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=r,flask,django,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,php,java" />
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,SQL" /><br>
 </div>
 
 <br/>
-<hr/>
+
 
 <div align="left">
   <h2>My Contributions</h2>
@@ -55,7 +55,7 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+
 
 
 
