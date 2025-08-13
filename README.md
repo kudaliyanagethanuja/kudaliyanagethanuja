@@ -39,8 +39,8 @@
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=r,flask,django,git" /><br>
-    <img src="https://skillicons.dev/icons?i=python,php,java,SQL" /><br>
+    <img src="https://skillicons.dev/icons?i=r,flask,django,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,php,java,SQL" />
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,SQL" /><br>
 </div>
 
