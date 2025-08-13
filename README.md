@@ -70,5 +70,3 @@
 <div align="center">
 <a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='' /></a>
 </div>
-
-<br/>
