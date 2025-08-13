@@ -14,7 +14,7 @@
  
  🔭 I’m currently working as a **Freelancer**.
  
- 🌱 I’m currently learning **Back-End Technologies**
+ 🌱 I’m currently learning **Back-End Technologies**.
 
 💬 Ask me about **Django,Flask, MySQL... or anything [here](https://stackoverflow.com/users/22792152/sathsara-thanuja?tab=profile)**
 
