@@ -39,8 +39,8 @@
 <h2 align="left"> Languages & Frameworks</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=r,flask,django,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,php,java" />
+    <img src="https://skillicons.dev/icons?i=flask,django,reactjs,git" />
+    <img src="https://skillicons.dev/icons?i=python,r,javascript,php,java" />
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,SQL" /><br>
 </div>
 
@@ -55,11 +55,6 @@
   <br/>
 </div>
 
-
-
-
-
-
 <h2 align="left">Stats </h2>
 <br>
 <div align=left>
@@ -70,9 +65,6 @@
  </div>
 
 <br/><br/>
-
-<hr/>
-
 <br/>
 
 <div align="center">
