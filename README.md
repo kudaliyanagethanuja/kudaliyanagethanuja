@@ -1,11 +1,11 @@
 
 
 <!-- ### Hi there 👋 -->
-<h1 align = "center">
+<h1 align = "left">
         <img src="https://c.tenor.com/CigpzapemsoAAAAi/hi-robot.gif" width="150">
 </h1>
 
-<h1 align = "center">
+<h1 align = "left">
         <img src = "https://readme-typing-svg.herokuapp.com?width=500&lines=Welcome+%E2%9D%A4%EF%B8%8F+to+Sathsara's+gitHub+pofile....;Still+%F0%9F%98%B6++Software+Engineering+Undergraduate.;I'm+Interested+%F0%9F%A5%B3+in+Back-End+Technologies.+;Try+%F0%9F%98%8E+to+learn+New+technologies.">
 </h1>
 <br/>
